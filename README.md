@@ -55,19 +55,11 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 
 <br />
 
-### ¿Quieres saber más?
-
-[Matplotlib documentation](https://matplotlib.org/stable/index.html)
-
-[Seaborn: statistical data visualization](https://seaborn.pydata.org/)
-
-<br />
-
 ## Temario
 
 ### Matplotlib
 
-- Pyplot básico - [code001].
+- Pyplot básico - [[code001.ipynb]](https://github.com/DensLopez/Matplotlib_seaborn/blob/b95ea473ab13ef133a78fb08872d725c6cb7906f/codes/code001.ipynb).
 - Subplot.
 - Método orientado a objetos.
 - Subplots.
@@ -79,22 +71,23 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 
 ### Seaborn
 
-* Set.
-
-* Parámetros más usados en Seaborn.
-
-* Distribuciones.
-
-* Categóricos.
-
-* Relation.
-
-* Jointplot y Pairplot.
-
-* Heatmap.
-
-* Quiz seaborn.
+- Set.
+- Parámetros más usados en Seaborn.
+- Distribuciones.
+- Categóricos.
+- Relation.
+- Jointplot y Pairplot.
+- Heatmap.
+- Quiz seaborn.
 
 -----------------------------
 
 <h2 align="center">Extra</h2>
+
+### ¿Quieres saber más?
+
+[Matplotlib documentation](https://matplotlib.org/stable/index.html)
+
+[Seaborn: statistical data visualization](https://seaborn.pydata.org/)
+
+<br />
