@@ -67,7 +67,7 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 
 ### Matplotlib
 
-- Pyplot básico.
+- Pyplot básico - [code001].
 - Subplot.
 - Método orientado a objetos.
 - Subplots.
