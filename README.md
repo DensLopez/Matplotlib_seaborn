@@ -60,8 +60,8 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 ### Matplotlib
 
 - Pyplot básico - [code001.ipynb](codes/code001.ipynb), [code001.html](codes/html/code001.html), [code001.pdf](codes/pdfs/code001.pdf).
-- Subplot - [code002.ipynb](codes/code002.ipynb), [code002.html](codes/html/code001.html), [code002.pdf](codes/pdfs/code002.pdf).
-- Método orientado a objetos.
+- Subplot - [code002.ipynb](codes/code002.ipynb), [code002.html](codes/html/code002.html), [code002.pdf](codes/pdfs/code002.pdf).
+- Método orientado a objetos - [code003.ipynb](codes/code003.ipynb), [code003.html](codes/html/code003.html), [code003.pdf](codes/pdfs/code003.pdf).
 - Subplots.
 - Leyendas, etiquetas, títulos y tamaño.
 - Colores y estilos.
