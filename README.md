@@ -1,10 +1,10 @@
-<p align="center"><a href="https://platzi.com/cursos/matplotlib-seaborn/"><img src="images/logo.png" alt="MarkText" width="100" height="100"></p>
+<p align="center"><a href="https://platzi.com/cursos/matplotlib-seaborn/"><img src="codes/images/logo.png" alt="MarkText" width="100" height="100"></p>
 
 <h1 align="center">Visualización de Datos con Matplotlib y Seaborn</h1>
 
 <div align="center">
   <a href="https://platzi.com">
-    <img src="images/platzi.png" width="150" height="47" alt="Platzi">
+    <img src="codes/images/platzi.png" width="150" height="47" alt="Platzi">
   </a>
 </div>
 
@@ -30,7 +30,7 @@ Y con razón, el cerebro humano comprende más rápido un diagrama que una suces
 
 <div align="center">
   <a href="https://matplotlib.org/">
-    <img src="images/matplotlib.png" alt="Matplotlib">
+    <img src="codes/images/matplotlib.png" alt="Matplotlib">
   </a>
 </div>
 <br />
@@ -49,7 +49,7 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 
 <div align="center">
   <a href="https://seaborn.pydata.org/">
-    <img src="images/seaborn.png" alt="Seaborn">
+    <img src="codes/images/seaborn.png" alt="Seaborn">
   </a>
 </div>
 
@@ -59,8 +59,8 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 
 ### Matplotlib
 
-- Pyplot básico - [[code001.ipynb]](https://github.com/DensLopez/Matplotlib_seaborn/blob/b95ea473ab13ef133a78fb08872d725c6cb7906f/codes/code001.ipynb).
-- Subplot.
+- Pyplot básico - [code001.ipynb](codes/code001.ipynb), [code001.html](codes/html/code001.html), [code001.pdf](codes/pdfs/code001.pdf).
+- Subplot - [code002.ipynb](codes/code002.ipynb), [code002.html](codes/html/code001.html), [code002.pdf](codes/pdfs/code002.pdf).
 - Método orientado a objetos.
 - Subplots.
 - Leyendas, etiquetas, títulos y tamaño.
