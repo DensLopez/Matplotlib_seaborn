@@ -10,13 +10,13 @@
 
 <div align="center">
   <sub>Este proyecto fue hecho en VS Code con Jupyter Notebooks. Por
-    <a href="https://github.com/DensLopez">Dennis</a>.
+    <a href="https://github.com/DensLopez">Dennis.</a>
   </sub>
 </div>
 <br />
 <br />
 
-Este repositorio está relacionado al curso de "Visualización de Datos con Matplotlib y Seaborn" tomado en Platzi. Además, contiene archivos "ipynb" y "HTML" con los códigos desarrollados en el curso y explicaciones por cada archivo.
+Este repositorio está relacionado al curso de <a href="https://platzi.com/cursos/matplotlib-seaborn">"Visualización de Datos con Matplotlib y Seaborn"</a> tomado en <a href="https://platzi.com">Platzi.</a> Además, contiene archivos "ipynb" y "html" con los códigos desarrollados en el curso y explicaciones por cada archivo.
 
 <br />
 
@@ -67,7 +67,7 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 - Colores y estilos - [code006.ipynb](codes/code006.ipynb), [code006.html](codes/html/code006.html), [code006.pdf](codes/pdfs/code006.pdf).
 - Bar plot - [code007.ipynb](codes/code007.ipynb), [code007.html](codes/html/code007.html), [code007.pdf](codes/pdfs/code007.pdf).
 - Crear otro tipo de gráficas - [code008.ipynb](codes/code008.ipynb), [code008.html](codes/html/code008.html), [code008.pdf](codes/pdfs/code008.pdf).
-- Quiz matplotlib.
+- Quiz matplotlib - [Quiz01](codes/pdfs/quiz01.pdf)
 
 ### Seaborn
 
