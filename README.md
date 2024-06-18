@@ -64,7 +64,7 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 - Método orientado a objetos - [code003.ipynb](codes/code003.ipynb), [code003.html](codes/html/code003.html), [code003.pdf](codes/pdfs/code003.pdf).
 - Subplots - [code004.ipynb](codes/code004.ipynb), [code004.html](codes/html/code004.html), [code004.pdf](codes/pdfs/code004.pdf).
 - Leyendas, etiquetas, títulos y tamaño - [code005.ipynb](codes/code005.ipynb), [code005.html](codes/html/code005.html), [code005.pdf](codes/pdfs/code005.pdf).
-- Colores y estilos.
+- Colores y estilos - [code006.ipynb](codes/code006.ipynb), [code006.html](codes/html/code006.html), [code006.pdf](codes/pdfs/code006.pdf).
 - Bar plot.
 - Crear otro tipo de gráficas.
 - Quiz matplotlib.
