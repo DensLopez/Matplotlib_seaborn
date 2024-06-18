@@ -65,7 +65,7 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 - Subplots - [code004.ipynb](codes/code004.ipynb), [code004.html](codes/html/code004.html), [code004.pdf](codes/pdfs/code004.pdf).
 - Leyendas, etiquetas, títulos y tamaño - [code005.ipynb](codes/code005.ipynb), [code005.html](codes/html/code005.html), [code005.pdf](codes/pdfs/code005.pdf).
 - Colores y estilos - [code006.ipynb](codes/code006.ipynb), [code006.html](codes/html/code006.html), [code006.pdf](codes/pdfs/code006.pdf).
-- Bar plot.
+- Bar plot - [code007.ipynb](codes/code007.ipynb), [code007.html](codes/html/code007.html), [code007.pdf](codes/pdfs/code007.pdf).
 - Crear otro tipo de gráficas.
 - Quiz matplotlib.
 
