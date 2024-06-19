@@ -75,7 +75,7 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 - Parámetros más usados en Seaborn - [code011.ipynb](codes/code011.ipynb), [code011.html](codes/html/code011.html), [code011.pdf](codes/pdfs/code011.pdf).
 - Distribuciones - [code012.ipynb](codes/code012.ipynb), [code012.html](codes/html/code012.html), [code012.pdf](codes/pdfs/code012.pdf).
 - Categóricos - [code013.ipynb](codes/code013.ipynb), [code013.html](codes/html/code013.html), [code013.pdf](codes/pdfs/code013.pdf).
-- Relation.
+- Relation - [code014.ipynb](codes/code014.ipynb), [code014.html](codes/html/code014.html), [code014.pdf](codes/pdfs/code014.pdf).
 - Jointplot y Pairplot.
 - Heatmap.
 - Quiz seaborn.
