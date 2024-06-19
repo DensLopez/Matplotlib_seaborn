@@ -77,7 +77,7 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 - Categóricos - [code013.ipynb](codes/code013.ipynb), [code013.html](codes/html/code013.html), [code013.pdf](codes/pdfs/code013.pdf).
 - Relation - [code014.ipynb](codes/code014.ipynb), [code014.html](codes/html/code014.html), [code014.pdf](codes/pdfs/code014.pdf).
 - Jointplot y Pairplot - [code015.ipynb](codes/code015.ipynb), [code015.html](codes/html/code015.html), [code015.pdf](codes/pdfs/code015.pdf).
-- Heatmap.
+- Heatmap - [code016.ipynb](codes/code016.ipynb), [code016.html](codes/html/code016.html), [code016.pdf](codes/pdfs/code016.pdf).
 - Quiz seaborn.
 
 -----------------------------
