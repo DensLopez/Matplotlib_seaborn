@@ -72,7 +72,7 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 ### Seaborn
 
 - Set - [code010.ipynb](codes/code010.ipynb), [code010.html](codes/html/code010.html), [code010.pdf](codes/pdfs/code010.pdf).
-- Parámetros más usados en Seaborn.
+- Parámetros más usados en Seaborn - [code011.ipynb](codes/code011.ipynb), [code011.html](codes/html/code011.html), [code011.pdf](codes/pdfs/code011.pdf).
 - Distribuciones.
 - Categóricos.
 - Relation.
@@ -86,7 +86,7 @@ Aunque Matplotlib es muy popular para crear visualizaciones de datos, su uso pue
 
 ### ¿Quieres saber más?
 
-- Seaborn: [code009.ipynb](codes/code009.ipynb), [code009.html](codes/html/code009.html), [code009.pdf](codes/pdfs/code009.pdf).)
+- Seaborn: [code009.ipynb](codes/code009.ipynb), [code009.html](codes/html/code009.html), [code009.pdf](codes/pdfs/code009.pdf).
 
 - [Matplotlib documentation](https://matplotlib.org/stable/index.html)
 
